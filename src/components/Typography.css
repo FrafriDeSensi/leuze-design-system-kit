@@ -1,0 +1,17 @@
+.leuze-h1, .leuze-h2, .leuze-h3, .leuze-body, .leuze-label {
+  font-family: var(--leuze-font-family);
+  line-height: var(--leuze-line-height);
+  letter-spacing: var(--leuze-letter-spacing);
+  color: var(--leuze-color-schwarz);
+  margin: 0;
+}
+
+.leuze-h1 { font-size: var(--leuze-h1-size); font-weight: var(--leuze-font-weight-bold); }
+.leuze-h2 { font-size: var(--leuze-h2-size); font-weight: var(--leuze-font-weight-bold); }
+.leuze-h3 { font-size: var(--leuze-h3-size); font-weight: var(--leuze-font-weight-bold); }
+.leuze-body { font-size: var(--leuze-body-size); font-weight: var(--leuze-font-weight-roman); }
+.leuze-label {
+  font-size: 14pt; /* ⚠️ vedi nota: il brand book indica "75pt" qui, probabile refuso peso/dimensione — da confermare */
+  font-weight: var(--leuze-font-weight-bold);
+  text-transform: uppercase;
+}

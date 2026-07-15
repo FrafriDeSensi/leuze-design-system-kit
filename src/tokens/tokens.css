@@ -1,0 +1,29 @@
+:root {
+  /* Colore — Weiß non è lo sfondo di default, lo è Grau */
+  --leuze-color-white: #ffffff;
+  --leuze-color-grau: #e8ebf0;
+  --leuze-color-grau-01: #d8dbe2;
+  --leuze-color-grau-02: #c5cad2;
+  --leuze-color-grau-03: #9da2a5;
+  --leuze-color-rot: #e30613;
+  --leuze-color-schwarz: #000000;
+
+  /* Tipografia */
+  --leuze-font-family: 'Helvetica Neue LT Pro', 'Helvetica Neue', Arial, sans-serif;
+  --leuze-font-weight-bold: 700;
+  --leuze-font-weight-roman: 400;
+
+  --leuze-h1-size: 52pt;
+  --leuze-h2-size: 36pt;
+  --leuze-h3-size: 22pt;
+  --leuze-body-size: 22pt;
+  --leuze-line-height: 26pt;
+  --leuze-letter-spacing: 0%;
+
+  /* Radius — regola fissa, non a piacere */
+  --leuze-radius-imagebox: 42px;
+  --leuze-radius-button: 12px;
+
+  /* Griglia */
+  --leuze-grid-unit: 8pt;
+}
